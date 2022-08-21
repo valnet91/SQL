@@ -1,1 +1,1 @@
-SQL
+SQL light
